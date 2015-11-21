@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eslint-in-config": "github:iamstarkov/eslint-config-in"
+    "eslint-config-in": "github:iamstarkov/eslint-config-in"
   }
 }
