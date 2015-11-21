@@ -1,12 +1,15 @@
 {
-  "name": "eslint-out-config",
+  "name": "eslint-config-out",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".eslintrc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "eslint-in-config": "github:iamstarkov/eslint-config-in"
+  }
 }
